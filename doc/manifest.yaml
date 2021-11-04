@@ -1,0 +1,17 @@
+actions: []
+authors: ''
+brief: ''
+bugtracker: ''
+depends:
+- catkin
+- roscpp
+- rospy
+- std_msgs
+description: The python_utils package
+license: TODO
+maintainers: ubuntu <ubuntu@todo.todo>
+msgs: []
+package_type: package
+repo_url: ''
+srvs: []
+url: ''
